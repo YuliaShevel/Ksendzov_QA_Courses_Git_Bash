@@ -3,7 +3,7 @@ JSON
  Repositories-New
 
  5. Клонировать репозиторий JSON на локальный компьютер.
- git clone http://JSON
+ git clone http://github.com/YuliaShevel/JSON.git
 
  6. Внутри локального JSON создать файл “new.json”.
  touch new.json
